@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iohchristfabrici00fabr_0009.png"; bbox 0 0 1953 3538; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 231 1006 1331 1091">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 231 1006 1331 1091">
+     <span class='ocr_line' id='line_1_1' title="bbox 231 1006 1331 1091; baseline 0.011 -12"><span class='ocrx_word' id='word_1_1' title='bbox 231 1006 1331 1091; x_wconf 79' lang='lat' dir='ltr'>INDVLGENTISSIMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 44 1218 1529 1304">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 44 1218 1529 1304">
+     <span class='ocr_line' id='line_1_2' title="bbox 44 1218 1529 1304; baseline 0.012 -18"><span class='ocrx_word' id='word_1_2' title='bbox 44 1218 736 1292; x_wconf 82' lang='lat' dir='ltr'>MVSARVM</span> <span class='ocrx_word' id='word_1_3' title='bbox 832 1221 1529 1304; x_wconf 71' lang='lat' dir='ltr'>,PATRONO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 134 1420 1441 1523">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 134 1420 1441 1523">
+     <span class='ocr_line' id='line_1_3' title="bbox 134 1420 1441 1523; baseline 0.013 -17"><span class='ocrx_word' id='word_1_4' title='bbox 134 1420 973 1517; x_wconf 78' lang='lat' dir='ltr'>ILLVSTRISSIMO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1032 1433 1441 1523; x_wconf 77' lang='lat' dir='ltr'>COMlTl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 1692 1600 1837">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 1692 1600 1837">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 1692 1600 1837; baseline 0.016 -26"><span class='ocrx_word' id='word_1_6' title='bbox 0 1692 77 1811; x_wconf 51' lang='grc' dir='ltr'>λ</span> <span class='ocrx_word' id='word_1_7' title='bbox 201 1692 1600 1837; x_wconf 84' lang='lat' dir='ltr'><strong>BERNSTORF.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
